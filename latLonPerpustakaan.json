@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "nama": "Perpustakaan Libofly",
+        "LatLng": [-7.803249,110.3398253]
+    },
+    {
+        "id": "2",
+        "nama": "Perpustakaan Way Que",
+        "LatLng": [-6.7273008,108.5573318]
+    },
+    {
+        "id": "3",
+        "nama": "Perpustakaan WoW",
+        "LatLng": [-6.2511363,106.7794746]
+    },
+    {
+        "id": "4",
+        "nama": "Perpustakaan Bendera Biru",
+        "LatLng": [-8.4553718,114.7913797]
+    }
+]
